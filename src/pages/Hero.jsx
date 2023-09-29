@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <>
-      <div className="my-10 mx-10 lg:grid lg:grid-cols-3 min-h-screen bg-base-200">
+      <div className="my-10 mx-10 lg:grid lg:grid-cols-3 bg-base-200">
         <div className="lg:col-span-1 lg:py-10">
           <h1 className="mb-8 text-center text-3xl font-extrabold text-gray-900 md:text-5xl lg:text-6xl">
             <span className="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">

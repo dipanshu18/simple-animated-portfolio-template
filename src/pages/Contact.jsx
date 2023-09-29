@@ -2,7 +2,7 @@ import ContactForm from "../components/ContactForm";
 
 export default function Contact() {
   return (
-    <div className="min-h-screen my-10">
+    <div className=" my-10">
       <h1 className="text-center text-2xl font-semibold leading-none tracking-tight text-gray-900">
         Feel free to contact me
       </h1>
